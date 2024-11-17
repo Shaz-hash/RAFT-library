@@ -1,0 +1,655 @@
+Test: initial election ...
+election begins by  2 term is  0 state is  follower
+send vote req to  1 requestvote args:  {1 2}
+send vote req to  0 requestvote args:  {1 2}
+hereeehereeevotereq response received by  2 candidate term is  1  replystruct  {1 true}
+votereq response received by  2 leader term is  1  replystruct  {1 true}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+  ... Passed
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+Test: election after network failure ...
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  2 term is  0 state is  follower
+send vote req to  0 requestvote args:  {1 2}
+send vote req to  1 requestvote args:  {1 2}
+hereeehereeevotereq response received by  2 candidate term is  1  replystruct  {1 true}
+votereq response received by  2 leader term is  1  replystruct  {1 true}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  0 term is  1 state is  follower
+send vote req to  2 requestvote args:  {2 0}
+send vote req to  1 requestvote args:  {2 0}
+hereeevotereq response received by  0 candidate term is  2  replystruct  {2 true}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {2}
+send append entry by state follower  his id is  2  appendentries arg is  {1}
+recv append reply by state follower  his id is  2  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+recv append reply by state leader  his id is  0  his leaderid is   appendentries rep is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state follower  his id is  2  appendentries arg is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  2 term is  2 state is  follower
+send vote req to  1 requestvote args:  {3 2}
+send vote req to  0 requestvote args:  {3 2}
+election begins by  1 term is  2 state is  follower
+send vote req to  2 requestvote args:  {3 1}
+send vote req to  0 requestvote args:  {3 1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  2 term is  3 state is  candidate
+send vote req to  0 requestvote args:  {4 2}
+send vote req to  1 requestvote args:  {4 2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  1 term is  3 state is  candidate
+send vote req to  2 requestvote args:  {4 1}
+send vote req to  0 requestvote args:  {4 1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state candidate  his id is  2  appendentries arg is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  2 term is  4 state is  candidate
+send vote req to  1 requestvote args:  {5 2}
+send vote req to  0 requestvote args:  {5 2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  1 term is  4 state is  candidate
+send vote req to  2 requestvote args:  {5 1}
+send vote req to  0 requestvote args:  {5 1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  2 term is  5 state is  candidate
+send vote req to  0 requestvote args:  {6 2}
+send vote req to  1 requestvote args:  {6 2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state candidate  his id is  2  appendentries arg is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  1 term is  5 state is  candidate
+send vote req to  2 requestvote args:  {6 1}
+send vote req to  0 requestvote args:  {6 1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+election begins by  2 term is  6 state is  candidate
+send vote req to  1 requestvote args:  {7 2}
+send vote req to  0 requestvote args:  {7 2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  1 term is  6 state is  candidate
+send vote req to  2 requestvote args:  {7 1}
+send vote req to  0 requestvote args:  {7 1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  2 term is  7 state is  candidate
+send vote req to  1 requestvote args:  {8 2}
+send vote req to  0 requestvote args:  {8 2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+election begins by  1 term is  7 state is  candidate
+send vote req to  2 requestvote args:  {8 1}
+send vote req to  0 requestvote args:  {8 1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+election begins by  2 term is  8 state is  candidate
+send vote req to  1 requestvote args:  {9 2}
+send vote req to  0 requestvote args:  {9 2}
+hereeevotereq response received by  2 candidate term is  9  replystruct  {9 true}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state follower  his id is  0  appendentries arg is  {2}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+send append entry by state leader  his id is  2  appendentries arg is  {1}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {1}
+  ... Passed
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+send append entry by state leader  his id is  2  appendentries arg is  {9}
+recv append reply by state leader  his id is  2  his leaderid is   appendentries rep is  {9}
+PASS
+ok  	raft	8.076s
